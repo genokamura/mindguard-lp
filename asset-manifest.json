@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mindguard-lp/static/css/main.ae42ac5f.css",
+    "main.js": "/mindguard-lp/static/js/main.129f8bac.js",
+    "index.html": "/mindguard-lp/index.html",
+    "main.ae42ac5f.css.map": "/mindguard-lp/static/css/main.ae42ac5f.css.map",
+    "main.129f8bac.js.map": "/mindguard-lp/static/js/main.129f8bac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.129f8bac.js"
+  ]
+}
