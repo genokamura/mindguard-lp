@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mindguard-lp/static/css/main.ae42ac5f.css",
-    "main.js": "/mindguard-lp/static/js/main.129f8bac.js",
+    "main.js": "/mindguard-lp/static/js/main.dc34d268.js",
     "index.html": "/mindguard-lp/index.html",
     "main.ae42ac5f.css.map": "/mindguard-lp/static/css/main.ae42ac5f.css.map",
-    "main.129f8bac.js.map": "/mindguard-lp/static/js/main.129f8bac.js.map"
+    "main.dc34d268.js.map": "/mindguard-lp/static/js/main.dc34d268.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.129f8bac.js"
+    "static/js/main.dc34d268.js"
   ]
 }
