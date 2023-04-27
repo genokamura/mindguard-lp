@@ -19,6 +19,11 @@
     ]
   },
   "Gallery": [
+    {
+      "title": "サービスイメージ",
+      "largeImage": "img/portfolio/01.jpg",
+      "smallImage": "img/portfolio/01.jpg"
+    }
   ],
   "Services": [
     {
